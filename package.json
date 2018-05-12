@@ -1,0 +1,10 @@
+{
+  "name": "affin-node",
+  "version": "0.0.1",
+  "description": "affiliate library",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/meganii/affin-node.git",
+  "author": "meganii <yuhei24@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
